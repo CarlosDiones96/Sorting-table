@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: lightblue;
+    width: 400px;
+    height: 600px;
+}
+
+th{
+    color: white;
+    background: green;
+}
+
+.table-body{
+    background: red;
+}
